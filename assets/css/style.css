@@ -1,0 +1,36 @@
+#Navbar{
+    margin:50px;
+}
+.linkFont{
+   font-family: 'Georgia', 'Times New Roman', Times, serif;
+   color: #666666;
+   font-size: 15px;
+   font-style: normal;
+   text-decoration: none;
+}
+.headerformat {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-clip: padding-box;
+}
+
+.footerformat {
+    background-color: #666666;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    padding: 15px;
+    border-top: teal 10px solid;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    /*background-clip: padding-box;*/
+}
+
+.my-header{
+    background-color: teal;
+}
+
+.main-container {
+   border: rgb(219, 218, 218) 2px solid;
+   padding: 10px;
+   margin-top: 15px;
+   margin-bottom: 15px;
+}
